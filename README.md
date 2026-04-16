@@ -4,7 +4,7 @@
 
 | Name | SRN |
 |------|-----|
-| J Sanjay Varma | PES1UG24CS194 |
+| Dandu Nivas Reddy | PES1UG24AM075 |
 ---
 
 ## 2. Build, Load, and Run Instructions
