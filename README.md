@@ -5,6 +5,7 @@
 | Name | SRN |
 |------|-----|
 | Dandu Nivas Reddy | PES1UG24AM075 |
+| J Karthik         | PES1UG25AM804 |
 ---
 
 ## 2. Build, Load, and Run Instructions
